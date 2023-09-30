@@ -13,7 +13,7 @@ Librarian is a Discord bot which allows users to bookmark messages and view them
 [Brackeys Discord server](https://discord.gg/brackeys), but is open source and can be used in other servers.
 
 ## Installing and configuring Librarian 
-Librarian runs in a Docker container, and there is a [docker-compose.yaml](docker-compose.yaml) file which simplifies this process.
+Librarian runs in a Docker container, and there is a [docker-compose.yml](docker-compose.yml) file which simplifies this process.
 
 ### Clone the repository
 To start off, clone the repository into your desired directory:
